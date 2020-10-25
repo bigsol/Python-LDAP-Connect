@@ -29,6 +29,8 @@ USER="domain\\username"
 <br>
 <br>
 
-
-<a href="hhttps://docs.secureauth.com/display/KBA/Active+Directory+Attributes+List/">Active Directory Attributes List!</a>
-
+Active Directory Attributes List!
+hhttps://docs.secureauth.com/display/KBA/Active+Directory+Attributes+List
+<br>
+<br>
+<br>
