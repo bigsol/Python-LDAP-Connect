@@ -30,7 +30,7 @@ USER="domain\\username"
 <br>
 
 Active Directory Attributes List!
-hhttps://docs.secureauth.com/display/KBA/Active+Directory+Attributes+List
+<p> https://docs.secureauth.com/display/KBA/Active+Directory+Attributes+List </p>
 <br>
 <br>
 <br>
